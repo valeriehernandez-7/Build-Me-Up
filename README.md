@@ -17,7 +17,7 @@ _Check out the [documentation](https://valeriehernandez-7.github.io/Build-Me-Up/
 [Computer Engineering](https://www.tec.ac.cr/en/carreras/licentiates-degree-computer-engineering)
 
 ### Course
-[CE 1103 - Algorithms and Data Structures I](https://www.tec.ac.cr/planes-estudio/licenciatura-ingenieria-computadores)
+[CE1103 - Algorithms and Data Structures I](https://www.tec.ac.cr/planes-estudio/licenciatura-ingenieria-computadores)
 
 ### Assignment
 Homework
