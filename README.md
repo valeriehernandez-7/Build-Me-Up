@@ -26,6 +26,6 @@ Homework
 II 2020
 
 ### Student
-[Valerie M. Hernández Fernández](https://github.com/valeriehernandez-7) - 2020010829
+[Valerie M. Hernández Fernández](https://github.com/valeriehernandez-7)
 
 ##
